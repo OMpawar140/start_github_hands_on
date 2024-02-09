@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+// void quicksort(){
+//}
 int main()
 {
    bool p=false;

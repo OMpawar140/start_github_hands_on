@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
+<<<<<<< HEAD
 // bubblesort(){
+=======
+// void quicksort(){
+>>>>>>> quicksort
 //}
 int main()
 {

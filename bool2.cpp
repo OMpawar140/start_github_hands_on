@@ -5,7 +5,6 @@ using namespace std;
 // void quicksort(){
 //}
 // mergesort()
-// let me in
 int main()
 {
    bool p=false;
